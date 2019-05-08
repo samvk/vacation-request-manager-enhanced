@@ -1,0 +1,3 @@
+body {
+    height: 100%; /* fix bug where app doesn't resize on fullscreen */
+}
