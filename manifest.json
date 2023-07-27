@@ -1,7 +1,7 @@
 {
   "name": "Vacation Request Manager (VRM) Enhanced",
-  "manifest_version": 2,
-  "version": "1.0.1",
+  "manifest_version": 3,
+  "version": "1.0.2",
   "description": "Disables scrolling by months, enables Flash automatically, and some more tweaks.",
   "author": "Sam Kauffman (SamVK)",
   "icons": {
